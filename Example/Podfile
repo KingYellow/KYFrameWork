@@ -1,0 +1,6 @@
+use_frameworks!
+target 'KYFrameWork_Tests' do
+  pod 'KYFrameWork', :path => '../'
+  
+  
+end
